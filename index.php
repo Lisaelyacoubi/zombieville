@@ -93,7 +93,7 @@
               <img src="images/articles/cerveau-vente.jpg" alt="vente de cerveaux humains" class="img-size-article">
             </div>
             <div class="col-lg-8 bg-light pt-4">
-              <p class="pl-3 font-size-line-visite-zombiecity">On le sait bien, les zombies ont besoin de cerveaux humains pour fonctionner de façon correcte. En maque de chair humaine, ils se transforment en bêtes furieuses et incontrôlables. Avant de garantir plus de sécurité dans Zombiecity, l'hôpital de la ville permet à qui le veut bien de vendre son cerveau après sa mort aux différents services compétents. Faites profitez vos proches de la somme empochée ...</p>
+              <p class="pl-3 font-size-line-visite-zombiecity">On le sait bien, les zombies ont besoin de cerveaux humains pour fonctionner de façon correcte. En maque de chair humaine, ils se transforment en bêtes furieuses et incontrôlables. Afin de garantir plus de sécurité dans Zombieville, l'hôpital de la ville permet à qui le veut bien de vendre son cerveau après sa mort aux différents services compétents. Faites profitez vos proches de la somme empochée ...</p>
               <button type="button" class="btn bg-button-articles rounded-0 ml-3 pl-5 pr-5">Lire la suite</button>
             </div>
             <div class="text-center">
