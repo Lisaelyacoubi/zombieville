@@ -1,0 +1,119 @@
+/* COMMON */
+
+* {
+
+
+}
+
+.bg-zombiecity {
+    background-color: #F5F5F5;
+}
+
+/* border */
+.border-radius-div-theme {
+  border-radius: 30px;
+}
+
+
+/* polices */
+
+h1, h2, h3 {
+  font-family: 'Viner Hand ITC', sans-serif;
+}
+
+/* couleurs */
+
+.color-red-theme {
+    color: #CC3C3C;
+}
+
+
+/* BANNER */
+
+.bg-zombie {
+  background-image: url('images/banner/cover-zombie.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 454px;
+  width: 854px;
+}
+
+.font-title-header {
+  font-size: 45px;
+  letter-spacing: .2rem;
+}
+
+.size-banner-description {
+  height: 200px;
+}
+
+/* EVENT */
+
+.img-size-event {
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+
+/* VISIT ZOMBIECITY */
+.title-details-page {
+  background-color: #CC3C3C;
+  border-radius: 30px;
+}
+
+.font-size-line-visite-zombiecity {
+  line-height: 2em;;
+}
+
+/* ARTICLES */
+
+.title-articles{
+  background-color: #868E92;
+  border-radius: 30px;
+}
+
+button {
+  background-color: #E8DCDC!important;
+}
+
+.bg-article-text{
+  background-color: #F8F5F5!important;
+}
+
+.img-size-article{
+  height: 100%;
+  width: 100%;
+}
+
+/* PAGINATION */
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+.pagination a.active {
+  background-color: #CC3C3C;
+  color: white;
+  border-radius: 100px;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+/* FOOTER */
+
+.bg-footer{
+  background-color: #CC3C3C;
+  }
+
+.img-size-footer{
+  height: 80%;
+  width: 80%;
+}
+
+a .title-footer{
+  color: white!important
+}
